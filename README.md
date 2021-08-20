@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Legend1011374
-- 👀 I’m interested in ... pentesting hhacking
+- 👀 I’m interested in ... pentesting hacking
 - 🌱 I’m currently learning ...burpsuite http proxies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...contact me on this email: githubreachme@gmail.com
